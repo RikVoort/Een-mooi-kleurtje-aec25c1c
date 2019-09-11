@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+h2 {
+	color: yellow;
+}
+/* All <a> elements. */
+h2 {font-size: 2em;}
+li {font-size: 2em;}
+h1 {font-size: 3em;}
